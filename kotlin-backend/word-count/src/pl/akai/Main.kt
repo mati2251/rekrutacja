@@ -19,14 +19,5 @@ fun main() {
         "Mam nadzieję, że poradzisz sobie z tym zadaniem bez problemu",
         "Nie powinno sprawić żadnego problemu, bo Google jest dozwolony"
     )
-
-    /* TODO Twoim zadaniem jest wypisanie na konsoli trzech najczęściej występujących słów
-            w tablicy 'sentences' wraz z ilością ich wystąpień..
-
-            Przykładowy wynik:
-            1. "mam" - 12
-            2. "tak" - 5
-            3. "z" - 2
-    */
-    println("Hello World!")
+    println(sentences.toString())
 }
